@@ -1,0 +1,13 @@
+D:\playground\BaseArchitecture_3.1\BaseArchitecture\Entites\obj\Debug\netstandard2.0\Entites.csproj.AssemblyReference.cache
+D:\playground\BaseArchitecture_3.1\BaseArchitecture\Entites\obj\Debug\netstandard2.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+D:\playground\BaseArchitecture_3.1\BaseArchitecture\Entites\obj\Debug\netstandard2.0\Entites.AssemblyInfoInputs.cache
+D:\playground\BaseArchitecture_3.1\BaseArchitecture\Entites\obj\Debug\netstandard2.0\Entites.AssemblyInfo.cs
+D:\playground\BaseArchitecture_3.1\BaseArchitecture\Entites\obj\Debug\netstandard2.0\Entites.csproj.CoreCompileInputs.cache
+D:\playground\BaseArchitecture_3.1\BaseArchitecture\Entites\bin\Debug\netstandard2.0\Entites.deps.json
+D:\playground\BaseArchitecture_3.1\BaseArchitecture\Entites\bin\Debug\netstandard2.0\Entites.dll
+D:\playground\BaseArchitecture_3.1\BaseArchitecture\Entites\bin\Debug\netstandard2.0\Entites.pdb
+D:\playground\BaseArchitecture_3.1\BaseArchitecture\Entites\bin\Debug\netstandard2.0\Core.dll
+D:\playground\BaseArchitecture_3.1\BaseArchitecture\Entites\bin\Debug\netstandard2.0\Core.pdb
+D:\playground\BaseArchitecture_3.1\BaseArchitecture\Entites\obj\Debug\netstandard2.0\Entites.csproj.CopyComplete
+D:\playground\BaseArchitecture_3.1\BaseArchitecture\Entites\obj\Debug\netstandard2.0\Entites.dll
+D:\playground\BaseArchitecture_3.1\BaseArchitecture\Entites\obj\Debug\netstandard2.0\Entites.pdb
