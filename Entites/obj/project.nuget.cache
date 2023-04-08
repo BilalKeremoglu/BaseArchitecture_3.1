@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r41qqiXGsWraPZ4yId8175juxnt00UgWFSfZ+2d3AVnE0f5o/F5s9g2CcYUsPb9lIuaRBDP6Lo+xCpoaMs3KlA==",
+  "dgSpecHash": "XtkXdtfQQgHur0AhZA18ZKqI6ZF8d00DvTNEMeC7lmehUc70sFTnhZUIWLrWZa1pmA91KcrGX1jB3phWdwpozA==",
   "success": true,
-  "projectFilePath": "D:\\playground\\BaseArchitecture_3.1\\BaseArchitecture\\Entites\\Entites.csproj",
+  "projectFilePath": "D:\\playground\\BaseArchitecture_3.1\\BaseArchitecture\\Entites\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

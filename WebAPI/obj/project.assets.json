@@ -1754,7 +1754,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Core": "1.0.0",
-          "Entites": "1.0.0",
+          "Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.32"
         },
         "compile": {
@@ -1764,17 +1764,17 @@
           "bin/placeholder/DataAccess.dll": {}
         }
       },
-      "Entites/1.0.0": {
+      "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Core": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Entites.dll": {}
+          "bin/placeholder/Entities.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Entites.dll": {}
+          "bin/placeholder/Entities.dll": {}
         }
       }
     }
@@ -6005,10 +6005,10 @@
       "path": "../DataAccess/DataAccess.csproj",
       "msbuildProject": "../DataAccess/DataAccess.csproj"
     },
-    "Entites/1.0.0": {
+    "Entities/1.0.0": {
       "type": "project",
-      "path": "../Entites/Entites.csproj",
-      "msbuildProject": "../Entites/Entites.csproj"
+      "path": "../Entites/Entities.csproj",
+      "msbuildProject": "../Entites/Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {

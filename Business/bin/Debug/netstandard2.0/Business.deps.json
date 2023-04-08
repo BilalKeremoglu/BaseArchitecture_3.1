@@ -1260,19 +1260,19 @@
       "DataAccess/1.0.0": {
         "dependencies": {
           "Core": "1.0.0",
-          "Entites": "1.0.0",
+          "Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.32"
         },
         "runtime": {
           "DataAccess.dll": {}
         }
       },
-      "Entites/1.0.0": {
+      "Entities/1.0.0": {
         "dependencies": {
           "Core": "1.0.0"
         },
         "runtime": {
-          "Entites.dll": {}
+          "Entities.dll": {}
         }
       }
     }
@@ -2084,7 +2084,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Entites/1.0.0": {
+    "Entities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

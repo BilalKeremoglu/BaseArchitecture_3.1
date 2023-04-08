@@ -93,8 +93,8 @@
               "D:\\playground\\BaseArchitecture_3.1\\BaseArchitecture\\Core\\Core.csproj": {
                 "projectPath": "D:\\playground\\BaseArchitecture_3.1\\BaseArchitecture\\Core\\Core.csproj"
               },
-              "D:\\playground\\BaseArchitecture_3.1\\BaseArchitecture\\Entites\\Entites.csproj": {
-                "projectPath": "D:\\playground\\BaseArchitecture_3.1\\BaseArchitecture\\Entites\\Entites.csproj"
+              "D:\\playground\\BaseArchitecture_3.1\\BaseArchitecture\\Entites\\Entities.csproj": {
+                "projectPath": "D:\\playground\\BaseArchitecture_3.1\\BaseArchitecture\\Entites\\Entities.csproj"
               }
             }
           }
@@ -135,12 +135,12 @@
         }
       }
     },
-    "D:\\playground\\BaseArchitecture_3.1\\BaseArchitecture\\Entites\\Entites.csproj": {
+    "D:\\playground\\BaseArchitecture_3.1\\BaseArchitecture\\Entites\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\playground\\BaseArchitecture_3.1\\BaseArchitecture\\Entites\\Entites.csproj",
-        "projectName": "Entites",
-        "projectPath": "D:\\playground\\BaseArchitecture_3.1\\BaseArchitecture\\Entites\\Entites.csproj",
+        "projectUniqueName": "D:\\playground\\BaseArchitecture_3.1\\BaseArchitecture\\Entites\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "D:\\playground\\BaseArchitecture_3.1\\BaseArchitecture\\Entites\\Entities.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
         "outputPath": "D:\\playground\\BaseArchitecture_3.1\\BaseArchitecture\\Entites\\obj\\",
         "projectStyle": "PackageReference",

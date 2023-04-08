@@ -3,10 +3,8 @@ D:\playground\BaseArchitecture_3.1\BaseArchitecture\Business\bin\Debug\netstanda
 D:\playground\BaseArchitecture_3.1\BaseArchitecture\Business\bin\Debug\netstandard2.0\Business.pdb
 D:\playground\BaseArchitecture_3.1\BaseArchitecture\Business\bin\Debug\netstandard2.0\Core.dll
 D:\playground\BaseArchitecture_3.1\BaseArchitecture\Business\bin\Debug\netstandard2.0\DataAccess.dll
-D:\playground\BaseArchitecture_3.1\BaseArchitecture\Business\bin\Debug\netstandard2.0\Entites.dll
 D:\playground\BaseArchitecture_3.1\BaseArchitecture\Business\bin\Debug\netstandard2.0\DataAccess.pdb
 D:\playground\BaseArchitecture_3.1\BaseArchitecture\Business\bin\Debug\netstandard2.0\Core.pdb
-D:\playground\BaseArchitecture_3.1\BaseArchitecture\Business\bin\Debug\netstandard2.0\Entites.pdb
 D:\playground\BaseArchitecture_3.1\BaseArchitecture\Business\obj\Debug\netstandard2.0\Business.csproj.AssemblyReference.cache
 D:\playground\BaseArchitecture_3.1\BaseArchitecture\Business\obj\Debug\netstandard2.0\Business.GeneratedMSBuildEditorConfig.editorconfig
 D:\playground\BaseArchitecture_3.1\BaseArchitecture\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
@@ -15,3 +13,5 @@ D:\playground\BaseArchitecture_3.1\BaseArchitecture\Business\obj\Debug\netstanda
 D:\playground\BaseArchitecture_3.1\BaseArchitecture\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 D:\playground\BaseArchitecture_3.1\BaseArchitecture\Business\obj\Debug\netstandard2.0\Business.dll
 D:\playground\BaseArchitecture_3.1\BaseArchitecture\Business\obj\Debug\netstandard2.0\Business.pdb
+D:\playground\BaseArchitecture_3.1\BaseArchitecture\Business\bin\Debug\netstandard2.0\Entities.dll
+D:\playground\BaseArchitecture_3.1\BaseArchitecture\Business\bin\Debug\netstandard2.0\Entities.pdb
