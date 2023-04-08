@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "K43BDMSEHlfkCcXCWlFmeUYrFQdnbQsKSdZklX4owDFJJKir9mBcv5l9eu8AteipxphnMUayDqKbbz5EncPNlg==",
+  "dgSpecHash": "B5eQUD1cuSOFBJ/KGn2oKqA40+aR6Jtyf2mgt060iJHm5Ig+0VN34dV57EEatUKK/8xPINqJT1lcvIGLY+K9KQ==",
   "success": true,
   "projectFilePath": "D:\\playground\\BaseArchitecture_3.1\\BaseArchitecture\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\autofac\\4.9.4\\autofac.4.9.4.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\autofac.extensions.dependencyinjection\\4.4.0\\autofac.extensions.dependencyinjection.4.4.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kMj2pnXVjeGP0aVSw9QjeovEnP3ktqSjKm/17cvfIAPEJdVhGrmJ9Kr33rPv3aEj+tGM7RexL4yVORCu3vv8PA==",
+  "dgSpecHash": "Rb8Fu84yxEoXW+UyA7GiPcNlPG3DskenkTjl0yPNqKmUdh33pSQgpNtwclWX5/5QJosyWP17tCYF2XPf18aAFA==",
   "success": true,
   "projectFilePath": "D:\\playground\\BaseArchitecture_3.1\\BaseArchitecture\\Business\\Business.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\autofac\\4.9.4\\autofac.4.9.4.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
